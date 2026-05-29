@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spam Detection Project
 
 This project detects whether a message is Spam or Not Spam using Machine Learning.
@@ -38,3 +39,6 @@ streamlit run app.py
 - Add deep learning models
 - Improve UI
 - Deploy online
+=======
+# aiml
+>>>>>>> 26f8a20f8d22393231a1826cc81eb795e7929f90
